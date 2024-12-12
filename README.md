@@ -1,4 +1,3 @@
-# ipexp2
 # Personal Biodata Web Page
 
 This project is a personal biodata web page showcasing basic information, skills, and contact details. The page is built using HTML and CSS, designed to be clean and responsive.
